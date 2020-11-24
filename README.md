@@ -1,2 +1,2 @@
 # food
- george_lomidze-10-mega_rwb-html-css-js-skillshare
+ SkillShare Code Along Journey with George Lomidze's 10 Mega Responsive Websites with HTML, CSS, and JavaScript
